@@ -7,3 +7,5 @@ this is for V1.1
 Create an avatar for user
 
 login and logout
+
+change 1
