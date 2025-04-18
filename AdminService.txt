@@ -1,5 +1,5 @@
 manage the database
-closing the database connection
+closing the sql database connection
 
 change1
 this is new change from remote to local
