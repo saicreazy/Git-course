@@ -3,7 +3,7 @@ closing the sql database connection
 
 change1
 this is new change from remote to local
-
+git new message from remote
 
 change2 in harsh's database
 
