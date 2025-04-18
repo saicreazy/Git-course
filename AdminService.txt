@@ -2,6 +2,7 @@ manage the database
 closing the database connection
 
 change1
+this is new change from remote to local
 
 
 change2 in harsh's database
